@@ -1,0 +1,27 @@
+{
+  "name": "svr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "start-download": "ts-node download.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-rc-2",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.3",
+    "@types/selenium-webdriver": "^4.0.15",
+    "@types/x-ray": "^2.3.3",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2",
+    "npm-run-all": "^4.1.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}

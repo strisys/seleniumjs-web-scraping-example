@@ -1,0 +1,7 @@
+https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?Keyword=svr&BusinessName=&Business=&DateFrom=&DateTo=&Sort=relevance&SecurityID=c464da67fdbbf6753e91cd0ac9bc04cb83f716f7&Captcha=&Captcha_Timestamp=1633613104
+
+1. Filter by "svr", upheld  (https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?Keyword=svr&BusinessName=&Business=&DateFrom=&DateTo=&IsUpheld%5B1%5D=1&Sort=relevance&SecurityID=e2b999800e72590274391e9db4d38e76c7ed5b8e&Captcha=&Captcha_Timestamp=1633617977)
+2. Filter by "svr", not upheld (https://www.financial-ombudsman.org.uk/decisions-case-studies/ombudsman-decisions/SearchDecisions?Keyword=svr&BusinessName=&Business=&DateFrom=&DateTo=&IsUpheld%5B0%5D=0&Sort=relevance&SecurityID=e2b999800e72590274391e9db4d38e76c7ed5b8e&Captcha=&Captcha_Timestamp=1633617988)
+
+Decision Ref, Date, Download PDF 
+
